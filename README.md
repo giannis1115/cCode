@@ -1,2 +1,2 @@
 # cCode
-usefull function in c
+some usefull (and simple) functions in C 
